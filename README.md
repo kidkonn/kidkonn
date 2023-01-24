@@ -5,6 +5,8 @@
 
 Использую Python, SQL, визуализацию данных (Tableau), Airflow, а также математическую статистику (здесь же А/А/Б тесты, бутстрап и др.)... список пополняется 🙂
 
+Со мной можно связаться: [Telegram](https://t.me/kidkonn)
+
 <!--
 **kidkonn/kidkonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
